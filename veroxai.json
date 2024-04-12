@@ -1,5 +1,5 @@
 const metadata = {
     name: "VeroxAI's Panther",
     symbol: "ROAR",
-    uri: "IPFS_URL_OF_METADATA",
+    uri: "https://raw.githubusercontent.com/Dr-S-K-M-Rahaman/veroxai-new-token/main/15.png",
 };

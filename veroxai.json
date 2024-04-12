@@ -1,0 +1,5 @@
+const metadata = {
+    name: "VeroxAI's Panther",
+    symbol: "ROAR",
+    uri: "IPFS_URL_OF_METADATA",
+};
